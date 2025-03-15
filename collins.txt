@@ -1,0 +1,1 @@
+ I learned key Git commands like git commit, git push, and git pull, along with branching, merging, and handling conflicts. GitHub features like forking, pull requests, and code reviews allow for seamless teamwork. Understanding these concepts enables efficient collaboration and version management in software development.
