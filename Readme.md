@@ -1,7 +1,7 @@
 # <p align="center">**Medical🩺**<br>
 <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-HEALTHCARE%20PLATFORM" alt="Welcome to OUR HEALTHCARE PLATFORM" />
 </p>
-
+My name is collins kahiu nguo and I learned key Git commands like git commit, git push, and git pull, along with branching, merging, and handling conflicts. GitHub features like forking, pull requests, and code reviews allow for seamless teamwork. Understanding these concepts enables efficient collaboration and version management in software development.
 
 
 
